@@ -10,4 +10,7 @@
 https://chatgpt.com/share/4e25c9e9-fb17-42a9-88ca-fdf03207d575
 <h4>Link do Artigo Publicado</h4>
 https://web.dio.me/articles/desenvolvimento-full-stack-com-php-integrando-front-end-e-back-end?back=%2Fhome&page=1&order=oldest
+<h3>Protótipo Navegável UX/UI</h3>
+<p>Foi feito um protótipo navegável mobile para uma loja virtual de semijoia.</p>
+<a href="https://www.figma.com/design/tocANy8NwVJkMJmyltvZKc/Untitled?node-id=51-2&t=3Xvu8mUZ1SKL4a9K-1">App loja virtual</a>
 
